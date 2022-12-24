@@ -36,3 +36,4 @@ git clone https://github.com/esirplayground/luci-app-LingTiGameAcc.git package/l
 git clone https://github.com/esirplayground/LingTiGameAcc.git package/LingTiGameAcc
 git clone https://github.com/Hyy2001X/luci-app-autoupdate.git package/luci-app-autoupdate
 git clone https://github.com/yaof2/luci-app-ikoolproxy.git package/luci-app-ikoolproxy
+git clone https://github.com/zzsj0928/luci-app-pushbot.git
